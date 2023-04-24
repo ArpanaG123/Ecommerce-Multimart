@@ -1,0 +1,25 @@
+.footer{
+    background-color: var(--primary-color);
+    color: white;
+}
+
+.logoImage{
+    margin-left: 34vw;
+    margin-top:1vw;
+}
+
+.logonew{
+    color: white;
+}
+
+.copyright{
+    margin-left:39vw;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+@media only screen  and (max-width:768px){
+    .footer{
+        display: none;
+    }
+}

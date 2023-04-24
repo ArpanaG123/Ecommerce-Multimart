@@ -1,0 +1,28 @@
+.product__details{
+    margin-top: 100px;
+}
+
+.product__details h2{
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+}
+
+.product__rating span i {
+    color: coral;
+}
+
+.product__price{
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+
+.tab__wrapper h6{
+    cursor: pointer;
+    color: var(--primary-color);
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.active__tab{
+    font-weight: 600;
+}

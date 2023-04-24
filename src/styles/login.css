@@ -1,0 +1,31 @@
+.auth__form{
+    background: var(--primary-color);
+    padding: 40px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+
+.input1{
+    width:500px;
+    height: 40px;
+}
+
+.auth__form input[type='file']{
+    color: #fff;
+    margin-left: -10vw;
+    cursor: pointer;
+}
+
+@media only screen and (max-width:768px){
+    .input1{
+        width:200px;
+    }
+
+    .auth__form input[type='file']{
+        color: #fff;
+        margin-left: 6vw;
+        cursor: pointer;
+    }
+    
+}

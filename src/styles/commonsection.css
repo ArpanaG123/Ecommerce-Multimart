@@ -1,0 +1,14 @@
+.common__Section{
+    background: linear-gradient(#00000041,#00000017),url("https://t3.ftcdn.net/jpg/03/30/49/64/360_F_330496414_XJv7ErFtuSHx7qVBqbKRga2aYU472tLP.jpg") no-repeat center center;
+    background-size: cover;
+    padding: 100px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+.common__Section h1{
+    color: #fff;
+    font-weight: 600;
+}
